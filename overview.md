@@ -2,7 +2,7 @@
 
 Azure DevOps is fast-becoming the perfect backlog and pipeline management tool for many teams. We absolutely love their toolset, but it’s just missing one thing — a user story map view. Pair it up with Avion and you’ve got all bases covered.
 
-![Avion User Story Map](/images/app.jpg)
+![Avion User Story Map](https://raw.githubusercontent.com/avion-app/ado-marketplace-extension/master/images/app.jpg)
 
 # Sync all three tiers of your user story map
 Our integration utilises both Features and Epics within Azure DevOps to create a true three-tier hierarchy, so your user stories will also maintain the context of their respective user journeys.
