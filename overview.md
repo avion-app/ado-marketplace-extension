@@ -1,4 +1,4 @@
-# User Story Mapping for Azure DevOps
+# User Story Mapping for Azure DevOps
 
 Azure DevOps is fast-becoming the perfect backlog and pipeline management tool for many teams. We absolutely love their toolset, but it’s just missing one thing — a user story map view. Pair it up with Avion and you’ve got all bases covered.
 
