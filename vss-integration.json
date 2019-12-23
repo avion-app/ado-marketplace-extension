@@ -1,0 +1,59 @@
+{
+  "manifestVersion": 1,
+  "id": "user-story-map",
+  "version": "1.4.15",
+  "name": "Avion User Story Map Integration",
+  "publisher": "avion",
+  "description": "User story mapping tool for Azure DevOps. Visualise your entire backlog in a user story map, create releases, prioritise user stories and build better products.",
+  "targets": [
+    {
+      "id": "Microsoft.VisualStudio.Services.Cloud.Integration"
+    }
+  ],    
+  "icons": {
+    "default": "images/logo-128.png",
+    "branding": "images/logo-512-white.png",
+    "large": "images/logo-512.png"
+  },
+  "categories": [
+    "Azure Boards"
+  ],
+  "tags": [
+    "User Story Mapping",
+    "Agile",
+    "Release Planning",
+    "Roadmap",
+    "Project Management",
+    "Product Management",
+    "Backlog Refinement",
+    "MVP",
+    "Scrum",
+    "Story Mapping",
+    "Story Map",
+    "Avion"
+  ],
+  "screenshots": [],
+  "content": {
+    "details": {
+      "path": "overview.md"
+    }
+  },
+  "links": {
+    "getstarted": {
+      "uri": "https://www.avion.io/user-story-mapping-with-azure-devops/"
+    },
+    "learn": {
+      "uri": "https://help.avion.io/docs/integrations/azure-devops"
+    },
+    "support": {
+      "uri": "https://www.avion.io/contact/"
+    },
+    "privacypolicy": {
+      "uri": "https://www.avion.io/terms-privacy-cookies/"
+    }
+  },
+  "branding": {
+    "color": "rgb(134, 34, 225)",
+    "theme": "dark"
+  }
+}
