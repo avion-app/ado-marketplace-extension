@@ -31,6 +31,7 @@ Save your eyes and bring out your inner hipster with Avion's sexy dark mode.
 Email a PDF of your user story map to your stakeholders or export to CSV to run your own data analysis. Additionally, use Avion's public story maps to share a live version of your work with the rest of your team.
 
 ## Quick steps to get started
+
 To integrate your Azure DevOps project with Avion:
 
   1. Sign up for a **[free 14-day trial](https://app.avion.io/sign-up/email)**
@@ -39,4 +40,8 @@ To integrate your Azure DevOps project with Avion:
   4. Start user story mapping like a pro! 😎
 
 ## Not sure what user story mapping is?
-You can think of a user story map as a more user-centric view of a typical product backlog. **[Read our introduction](https://www.avion.io/what-is-user-story-mapping/)** to start learning more about user story mapping or book an **[online user story mapping workshop](https://www.avion.io/user-story-mapping-workshop/)** for you and your team.
+
+You can think of a user story map as a more user-centric view of a typical product backlog. Here are some more helpful resources:
+
+  * **[Read an introduction](https://www.avion.io/what-is-user-story-mapping/)** to user story mapping
+  * Take an **[online user story mapping workshop](https://www.avion.io/user-story-mapping-workshop/)**
