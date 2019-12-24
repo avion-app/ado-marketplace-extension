@@ -38,5 +38,5 @@ To integrate your Azure DevOps project with Avion:
   2. Follow our simple **[integration setup process](https://help.avion.io/docs/integrations/azure-devops)**
   4. Start user story mapping like a pro! 😎
 
-## Not sure what user story mapping is?
+## Not sure what user story mapping is?
 You can think of a user story map as a more user-centric view of a typical product backlog. **[Read our introduction](https://www.avion.io/what-is-user-story-mapping/)** to start learning more about user story mapping or book an **[online user story mapping workshop](https://www.avion.io/user-story-mapping-workshop/)** for you and your team.
