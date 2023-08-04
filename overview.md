@@ -1,47 +1,48 @@
-## User Story Mapping with Avion and Azure DevOps
+## Visualize your Azure DevOps backlogs with Avion story maps
 
-Azure DevOps is fast-becoming the perfect backlog and pipeline management tool for many teams. We absolutely love their toolset, but it's just missing one thing — a user story map. Sync your backlog with **[Avion](https://www.avion.io)** and you've got all your bases covered. **Get started today with our free 14-day trial.**
+[![User story mapping with Avion](https://raw.githubusercontent.com/avion-app/ado-marketplace-extension/master/images/user-story-mapping-with-avion.jpg)](https://raw.githubusercontent.com/avion-app/ado-marketplace-extension/master/images/user-story-mapping-with-avion.jpg)
 
-<video width="727" height="535" poster="https://raw.githubusercontent.com/avion-app/ado-marketplace-extension/master/images/story-mapping-with-avion-and-azure-devops.jpg" src="https://raw.githubusercontent.com/avion-app/ado-marketplace-extension/master/videos/azure-devops-demo-video.mp4" controls></video>
+Azure DevOps is fast-becoming the perfect backlog and pipeline management tool for many teams. We absolutely love their toolset, but it's just missing one thing — a user story map. Sync your backlog with **[Avion](https://www.avion.io)** and you've got all your bases covered. Get started today with our free trial.
 
-## Put your entire product backlog in a user story map
+<video width="727" height="535" poster="https://raw.githubusercontent.com/avion-app/ado-marketplace-extension/master/images/user-story-mapping-with-azure-devops.jpg" src="https://raw.githubusercontent.com/avion-app/ado-marketplace-extension/master/videos/azure-devops-demo-video.mp4" controls></video>
 
-**[Our integration](https://www.avion.io/user-story-mapping-with-azure-devops/)** utilises both Features and Epics within Azure DevOps to create a true three-tier hierarchy, so your user stories will also maintain the context of their respective user journeys.
+> Create your "one source of truth" with a user story map
 
-[![Three-tier user story map syncing with Avion](https://raw.githubusercontent.com/avion-app/ado-marketplace-extension/master/images/epics-features.jpg)](https://raw.githubusercontent.com/avion-app/ado-marketplace-extension/master/images/epics-features.jpg)
+## Integration benefits
 
-#### Don't want to sync all three tiers?
+* De-couple product planning and delivery – Keep the Azure DevOps backlog clean by tracking ideas and scope in Avion.
+* Make sense of the mess – Give stakeholders (and yourself) a user-friendly, customer-centric view of your product and plans in Avion.
+* User-centric – Plan right in the context of your user's experience.
+* Outcome-focused – Encourage the product team to focus on outcomes, over output.
+* Communicate – Plan dependencies in Avion and communicate plans better.
 
-You can also integrate with Azure DevOps without syncing the structure and hierarchy of your story map — keeping your Avion stories and Azure DevOps work items in sync — without touching your Epics and Features. This lightweight approach allows your dev team to organise their backlog however they want.
+## Integration features
 
-## Automatic two-way syncing, always
+* Two-way syncing between Avion and Azure DevOps
+* Sync Epics and Features to the story map backbone
+* Select area paths and iteration paths
+* Filter syncing via WIQL
+* Use tag syncing for further filtering and refinement
+* Sync story points, descriptions, A/Cs and even attachments
 
-Whenever a release or user story is pushed from Avion to Azure DevOps, all data will be kept in sync whichever tool is used to update it. So you can update your titles, descriptions, story sizes or structure, safely in the knowledge that both tools are up-to-date.
+## More great features
 
-[![Two-way syncing with Avion](https://raw.githubusercontent.com/avion-app/ado-marketplace-extension/master/images/two-way-syncing.jpg)](https://raw.githubusercontent.com/avion-app/ado-marketplace-extension/master/images/two-way-syncing.jpg)
-
-## Dark mode
-
-Save your eyes and bring out your inner hipster with Avion's sexy dark mode.
-
-[![Avion's Dark Mode](https://raw.githubusercontent.com/avion-app/ado-marketplace-extension/master/images/dark-mode.jpg)](https://raw.githubusercontent.com/avion-app/ado-marketplace-extension/master/images/dark-mode.jpg)
-
-## Export and share your story maps
-
-Email a PDF of your user story map to your stakeholders or export to CSV to run your own data analysis. Additionally, use Avion's public story maps to share a live version of your work with the rest of your team.
+* Other integrations, such as Slack, GitHub and Figma
+* Dependency visualization
+* Release planning
+* Personas
+* Publicly shareable story map links
+* Export to Excel, image and PDF
 
 ## Quick steps to get started
 
 To integrate your Azure DevOps project with Avion:
 
-  1. Sign up for a **[free 14-day trial](https://app.avion.io/sign-up/email)**
-  2. Create a new user story map
-  2. Follow our simple **[integration setup process](https://help.avion.io/docs/integrations/azure-devops)**
+  1. Sign up for a **[free trial](https://app.avion.io/sign-up/email)**
+  2. Create a new story map
+  2. Follow our simple **[integration setup process](https://help.avion.io/docs/integrations/backlog-tools/services/azure-devops/set-up)**
   4. Start user story mapping like a pro! 😎
 
 ## Not sure what user story mapping is?
 
-You can think of a user story map as a more user-centric view of a typical product backlog. Here are some more helpful resources:
-
-  * **[Read an introduction](https://www.avion.io/what-is-user-story-mapping/)** to user story mapping
-  * Take an **[online user story mapping workshop](https://www.avion.io/user-story-mapping-workshop/)**
+You can think of a user story map as a more user-centric view of a typical product backlog. **[Read our introduction to user story mapping](https://www.avion.io/what-is-user-story-mapping/)**.

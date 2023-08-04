@@ -1,7 +1,7 @@
 {
   "manifestVersion": 1,
   "id": "user-story-map",
-  "version": "1.4.15",
+  "version": "2.0.2",
   "name": "Avion User Story Map Integration",
   "publisher": "avion",
   "description": "User story mapping tool for Azure DevOps. Avion helps you visualise your entire backlog in a user story map, create releases, prioritise user stories and build better products. 14-day free trial.",
@@ -11,9 +11,9 @@
     }
   ],    
   "icons": {
-    "default": "images/logo-128.png",
-    "branding": "images/logo-512-white.png",
-    "large": "images/logo-512.png"
+    "default": "images/avion-emblem.png",
+    "branding": "images/avion-emblem.png",
+    "large": "images/avion-emblem.png"
   },
   "categories": [
     "Azure Boards"
@@ -49,7 +49,7 @@
       "uri": "https://www.avion.io/user-story-mapping-with-azure-devops/"
     },
     "learn": {
-      "uri": "https://help.avion.io/docs/integrations/azure-devops"
+      "uri": "https://help.avion.io/docs/integrations/backlog-tools/services/azure-devops"
     },
     "support": {
       "uri": "https://www.avion.io/contact/"
@@ -62,14 +62,14 @@
     }
   },
   "branding": {
-    "color": "rgb(94, 44, 237)",
-    "theme": "dark"
+    "color": "rgb(255, 255, 255)",
+    "theme": "light"
   },
   "galleryFlags": [
     "Paid"        
   ],
   "galleryproperties": {
-    "trialDays": "14"
+    "trialDays": "30"
   },
   "public": true
 }

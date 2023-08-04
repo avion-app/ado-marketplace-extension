@@ -1,12 +1,9 @@
-## Free 14-day trial
+## Free trial
 
-You can try Avion completely free of charge for 14 days. No credit card required, all features included. After your trial period expires, you must sign up for a subscription. If you haven't finished evaluating Avion and would like some extra time, please get in touch via our **[help section](https://app.avion.io/help)** in the app.
-
+You can try out all Avion's features, including the Azure DevOps integration completely free of charge. No credit card required. After your trial period expires, you must sign up for a subscription. If you haven't finished evaluating Avion and would like some extra time, please just [get in touch](https://www.avion.io/contact/).
 
 ## Plans & Billing
 
-Starting from **$15.75/month**, Avion offers either monthly or annual billing cycles based on your needs. All our plans comes with three users included as standard, and each additional user starts from **$7/month**.
+Avion has a wide variety of plans from Free to Enterprise. For more information and FAQs on our plans and billing, please visit our **[pricing page](https://www.avion.io/pricing/)**.
 
-If you are a startup or early-stage company, you likely qualify for our **[startup discount](https://help.avion.io/plans-and-billing/plans/startups-freelancers-and-early-stage-companies)**. If you are a large-scale team with additional requirements such as single sign-on (SSO), dedicated environments, etc, please get in touch via our **[contact form](https://www.avion.io/enterprise/)**.
-
-For more information and FAQs on our plans and billing, please visit our **[pricing page](https://www.avion.io/pricing/)**.
+If you are a large-scale team with additional requirements such as single sign-on (SSO), dedicated environments, etc, please get in touch by following the links on our **[enterprise page](https://www.avion.io/enterprise/)**.
